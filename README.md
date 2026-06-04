@@ -1,11 +1,12 @@
 # ATIVIDADES-PTIC
 Repositório destinado ao armazenamento e entrega das atividades da disciplina de PTIC
 
-📁 [Documento pensamento computacional em formato ABNT.docx](https://github.com/user-attachments/files/28616880/Document.6.docx)
+📁 <a href="https://github.com/user-attachments/files/28617223/Document.6.docx">Texto pilares do Pensamento Computacional em ABNT</a>
 <br>
-
-📁 [Documento pensamento computacional.pdf](https://github.com/user-attachments/files/28616990/Documento.pensamento.computacional.pdf)
-
+📁 <a href="https://github.com/user-attachments/files/28617269/Documento.pensamento.computacional.pdf
+">Texto pilares do Pensamento Computacional</a>
 <br>
-📁 [Pilares_Pensamento_Computacional.pptx](https://github.com/user-attachments/files/28617117/Pilares_Pensamento_Computacional.pptx)
+📁 <a href="https://github.com/user-attachments/files/28617202/Apresentacao.pptx
+">Apresentação - Pilares do Pensamento Computacional (PPTX)</a>
+
 
